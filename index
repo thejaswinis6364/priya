@@ -1,0 +1,60 @@
+html>
+    <head>
+        <title>
+           RESUME
+        </title>
+       <style>h1{font-family: 'Courier New', Courier, monospace;
+                  font-weight: bold;
+                  }
+                h3{font-style: italic;
+                    }
+                    body{background-image:url('er.jpg'); }</style>
+        <script type="text/javascript" src="p2.js"></script>
+        <link rel="stylesheet" type="text/css" href="p2.css"/>
+    </head>
+    <body>
+        <h1 style="color: brown;">I am <b>Priya N</b></h1>
+        <a href="default.asp">
+            <img src="manja.jpg" alt="HTML tutorial" style="width:100px;height:100px;">
+            </a>
+      <table border="15">
+        <tr>s
+            <th>  </th>
+            <th>description</th>
+        </tr>
+        <tr>
+            <td>NAME</td>
+            <td>Priya N</td>
+        </tr>
+        <tr>
+            <td>DOB</td>
+            <td>22/08/2001</td>
+        </tr>
+        <tr>
+            <td>PHONE</td>
+            <td>8660032628</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>priyanagarajuchini@gmail.com</td>
+        </tr>
+        <tr>
+            <td>ADDRESS</td>
+            <td>Priya N d/o Nagaraju , hosamalangi , kollegala talku, chamarajanagar dis</td>
+        </tr>
+      </table>
+      <p class="para1" id="p1" onmouseover="toTop('p1');">
+       <big>CAREER OBJECTIVE</big> <br>In search of career opportunity <br>to fully utilize my training and skill while<br> to contribute to the success of company
+      </p>
+      <p class="para2" id="p2" onmouseover="toTop('p2');">
+      <big> SKILL HIGHLIGHTS</big>   <br>Design Power electronics    <br>Programming language  <br> Basic of C,Basic of C++,Basic of web technology          <br>
+      </p>
+      <p class="para3" id="p3" onmouseover="toTop('p3');">
+       <big>EDUCATION</big><br>SSLC-2017-80%<br>Diploma (EEE)-2020-78%<br>Engineering [Electrical and electronics ] -2023<br> 
+      </p>
+      <p class="para4" id="p4" onmouseover="toTop('p4');">
+       <big>INTERNSHIP</big> <br>loginware
+              </p>                     <h3 style="color: blueviolet;">I HERE BY DECLARE THAT ALL THE INFORMATION FURNISHED ABOVE IS TRUE AND ACCURATE TO THE BEST OF MY KNOWLEDGE</h3>
+    </body>
+     
+</html>
